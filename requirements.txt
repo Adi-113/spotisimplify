@@ -1,0 +1,7 @@
+streamlit
+altair
+plotly.express 
+spotipy.oauth2
+spotipy
+requests
+PIL
