@@ -1,5 +1,13 @@
 import streamlit as st
 from functions import *
+import pandas as pd
+import altair as alt
+import plotly.express as px
+import spotipy
+import streamlit as st
+from spotipy.oauth2 import SpotifyClientCredentials
+from PIL import Image
+import requests
 # Load the dataset
 
 st.set_page_config(
